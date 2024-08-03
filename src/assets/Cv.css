@@ -77,6 +77,14 @@ body{
     margin-top: -23vh;
 }
 
+.proLink{
+    color: rgb(9, 84, 145);
+    font-size: 18px;
+    font-style: oblique;
+    font-weight: bold;
+    text-decoration: none;
+}
+
 @media screen and (max-width: 999px) {
     .moveUp{
         margin-top: 0vh;
