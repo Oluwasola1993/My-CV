@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    width: 100%;
+    height: 100vh; 
+    padding: 5px;
+    background-color: rgba(221, 221, 221, 0.473);
+ }
+
+ .sholz{
+    width: 100%;
+    border-radius: 50%;
+    border: 2px solid rgb(0, 68, 255);
+}
+
+.Name{
+   font-family: 'Times New Roman', Times, serif;
+   color: #0357a5;
+   font-weight: bold;
+}
+
+.Name2{
+    font-family: 'Times New Roman', Times, serif;
+   color: #0357a5;
+   font-weight: bold;
+   border-bottom: 3px solid rgb(0, 68, 255);
+}
+
+.FEd{
+    font-weight: bold;
+    color: #590d70;
+}
+
+.link1{
+    color: rgb(104, 102, 102);
+    font-size: 14px;
+    font-style: oblique;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.linkNw{
+    color: rgb(104, 102, 102);
+    text-decoration: none;
+    font-style: italic;
+}
+
+.Skills{
+    color: rgb(104, 102, 102);
+    font-size: large; 
+}
+
+.lin{
+    border-bottom: 2px solid rgb(201, 200, 200);
+    border-bottom-style: dashed;
+}
+
+.iC{
+    color: rgb(104, 102, 102); 
+}
+
+.sk{
+    border: 1px solid rgb(104, 102, 102);
+    border-radius: 7px;
+}
+
+.icon{
+    color: #0357a5;
+}
+
+.moveUp{
+    margin-top: -23vh;
+}
+
+@media screen and (max-width: 999px) {
+    .moveUp{
+        margin-top: 0vh;
+    }
+}
+
+
+    
