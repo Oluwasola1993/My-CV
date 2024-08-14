@@ -90,7 +90,19 @@ body{
     
 }
 
-@media screen and (max-width: 999px) {
+.langRow{
+    margin-top: -60vh;
+}
+
+.langRow2{
+    margin-top: -28vh;
+}
+
+.headings{
+    font-weight: bold;
+}
+
+@media screen and (min-width: 200px) and (max-width: 699px) {
     .moveUp{
         margin-top: 0vh;
     }
@@ -102,6 +114,45 @@ body{
         font-weight: bold;
         text-decoration: none;
     }
+
+    .langRow{
+        margin-top: 0vh;
+    }
+
+    .langRow2{
+        margin-top: 0vh;
+    }
+
+    .headings{
+        font-weight: normal;
+    }
+}
+
+@media screen and (min-width: 700px) and (max-width: 1299px) {
+    .moveUp{
+        margin-top: -10vh;
+    }
+
+    .proLink{
+        color: rgb(9, 84, 145);
+        font-style: oblique;
+        font-size: 13px;
+        font-weight: bold;
+        text-decoration: none;
+    }
+
+    .langRow{
+        margin-top: -16vh;
+    }
+
+    .langRow2{
+        margin-top: -2vh;
+    }
+
+    .headings{
+        font-weight: normal;
+    }
+ 
 }
 
 

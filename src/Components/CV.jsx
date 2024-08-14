@@ -23,7 +23,7 @@ const CV = () => {
             <h1 className="Name">OJO OLUWASOLA</h1>
             <p className="FEd">Front-End Developer (React.JS)</p>
             <div className="row">
-              <div className="col-12 col-md-6 col-lg-4">
+              <div className="col-12 col-md-7 col-lg-4">
                 <a className="link1" href="mailto:ojooluwasola7@gmail.com">
                   <div className="d-flex gap-2">
                     <span className="icon">@</span> ojooluwasola7@gmail.com
@@ -51,7 +51,7 @@ const CV = () => {
                 </a>
               </div>
               <div className="row">
-                <div className="col-12 col-md-6 col-lg-6">
+                <div className="col-12 col-md-12 col-lg-6">
                   <a
                     className="link1"
                     href="https://www.linkedin.com/in/oluwasola-ojo-383b78190"
@@ -64,7 +64,7 @@ const CV = () => {
                     </div>
                   </a>
                 </div>
-                <div className="col-12 col-md-6 col-lg-6">
+                <div className="col-12 col-md-8 col-lg-6">
                   <a href="https://github.com/Oluwasola1993" className="link1">
                     <div className="d-flex gap-2">
                       <span className="icon">
@@ -75,7 +75,7 @@ const CV = () => {
                   </a>
                 </div>
                 <div className="row">
-                  <div className="col-12 col-md-6 col-lg-6">
+                  <div className="col-12 col-md-8 col-lg-6">
                     <a
                       className="link1"
                       href="https://www.twitter.com/@OLUWASO37625157"
@@ -93,7 +93,7 @@ const CV = () => {
             </div>
           </div>
           <div className="row px-lg-4 pt-4 mt-2">
-            <div className="col-12 col-md-3 col-lg-3">
+            <div className="col-12 col-md-4 col-lg-3">
               <h1 className="Name2">SKILLS</h1>
               <div className="d-flex gap-2 Skills px-1">
                 <p className="sk px-2">HTML 5</p>
@@ -121,7 +121,7 @@ const CV = () => {
                 <p className="sk px-2">Git</p>
               </div>
             </div>
-            <div className="col-12 col-md-6 col-lg-6">
+            <div className="col-12 col-md-8 col-lg-6">
               <h1 className="Name2">About Me</h1>
               <div className="FEd">
                 Highly skilled React Developer with 2 years of experience in
@@ -134,7 +134,7 @@ const CV = () => {
               </div>
             </div>
             <div className="row px-lg-4 pt-4">
-              <div className="col-12 col-md-3 col-lg-3">
+              <div className="col-12 col-md-5 col-lg-3">
                 <h1 className="Name2">SOFT SKILLS</h1>
                 <div className="Skills px-1">
                   <p className="sk px-2 w-75">Critical Thinking</p>
@@ -145,14 +145,16 @@ const CV = () => {
                   <p className="sk px-2">Ethical/Professional Conduct</p>
                 </div>
               </div>
-              <div className="col-12 col-md-6 col-lg-6 moveUp">
+              <div className="col-12 col-md-7 col-lg-6 moveUp">
                 <div>
                   <h1 className="Name2">PROJECTS</h1>
                 </div>
                 <div className="col-12 col-md-12 col-lg-12">
-                  <div>
-                    Van Life Clone | (Built a functional clone of the Van-Life
-                    website using React.JS){" "}
+                  <div className="lin pb-3">
+                    <span className="headings">
+                      Van Life Clone | (Built a functional clone of the Van-Life
+                      website using React.JS)
+                    </span>
                     <span className="fw-bold FEd px-lg-1">|</span>
                     <a
                       href="https://github.com/Oluwasola1993/Van-life"
@@ -177,24 +179,162 @@ const CV = () => {
                       <span className="icon">
                         <FaCalendar />
                       </span>
-                      <p>HTML, CSS, ReactJS, Bootstrap</p>
+                      <small>HTML, CSS, React.JS, Bootstrap</small>
                     </div>
-                    <div className="d-flex gap-2">
+                    <div className="d-flex gap-2 pt-1">
                       <span className="iC">
                         <GoDotFill />
                       </span>
-                      <p>
+                      <small>
                         I solidified my knowledge of JSX, components and state
                         management while building the interactive elements of
                         the page
-                      </p>
+                      </small>
+                    </div>
+                    <div className="d-flex gap-2 pt-1">
+                      <span className="iC">
+                        <GoDotFill />
+                      </span>
+                      <small>
+                        I focused on replicating the visual design of the
+                        landing page using HTML and Bootstrap for interactivity
+                      </small>
+                    </div>
+                    <div className="d-flex gap-2 pt-1">
+                      <span className="iC">
+                        <GoDotFill />
+                      </span>
+                      <small>
+                        I focused on replicating the visual design of the
+                        landing page using HTML and Bootstrap for interactivity
+                      </small>
+                    </div>
+                  </div>
+                  <div className="pt-3 lin pb-3">
+                    <span className="headings">
+                      Van Life Clone | (Built a functional clone of the Van-Life
+                      website using React.JS)
+                    </span>
+                    <span className="fw-bold FEd px-lg-1">|</span>
+                    <a
+                      href="https://github.com/Oluwasola1993/Van-life"
+                      className="proLink"
+                    >
+                      <span>
+                        <AiOutlineGithub className="me-2" />
+                        https://github.com/Oluwasola1993/Van-life
+                      </span>
+                    </a>
+                    <span className="fw-bold FEd px-lg-1">|</span>
+                    <a
+                      href="https://van-life-new-pied.vercel.app/"
+                      className="proLink"
+                    >
+                      <span>
+                        <TbWorld className="me-2" />
+                      </span>
+                      <span>https://van-life-new-pied.vercel.app</span>
+                    </a>
+                    <div className="d-flex gap-3">
+                      <span className="icon">
+                        <FaCalendar />
+                      </span>
+                      <small>HTML, CSS, React.JS, Bootstrap</small>
+                    </div>
+                    <div className="d-flex gap-2 pt-1">
+                      <span className="iC">
+                        <GoDotFill />
+                      </span>
+                      <small>
+                        I solidified my knowledge of JSX, components and state
+                        management while building the interactive elements of
+                        the page
+                      </small>
+                    </div>
+                    <div className="d-flex gap-2 pt-1">
+                      <span className="iC">
+                        <GoDotFill />
+                      </span>
+                      <small>
+                        I focused on replicating the visual design of the
+                        landing page using HTML and Bootstrap for interactivity
+                      </small>
+                    </div>
+                    <div className="d-flex gap-2 pt-1">
+                      <span className="iC">
+                        <GoDotFill />
+                      </span>
+                      <small>
+                        I focused on replicating the visual design of the
+                        landing page using HTML and Bootstrap for interactivity
+                      </small>
+                    </div>
+                  </div>
+                  <div className="pt-3">
+                    <span className="headings">
+                      Van Life Clone | (Built a functional clone of the Van-Life
+                      website using React.JS)
+                    </span>
+                    <span className="fw-bold FEd px-lg-1">|</span>
+                    <a
+                      href="https://github.com/Oluwasola1993/Van-life"
+                      className="proLink"
+                    >
+                      <span>
+                        <AiOutlineGithub className="me-2" />
+                        https://github.com/Oluwasola1993/Van-life
+                      </span>
+                    </a>
+                    <span className="fw-bold FEd px-lg-1">|</span>
+                    <a
+                      href="https://van-life-new-pied.vercel.app/"
+                      className="proLink"
+                    >
+                      <span>
+                        <TbWorld className="me-2" />
+                      </span>
+                      <span>https://van-life-new-pied.vercel.app</span>
+                    </a>
+                    <div className="d-flex gap-3">
+                      <span className="icon">
+                        <FaCalendar />
+                      </span>
+                      <small>HTML, CSS, React.JS, Bootstrap</small>
+                    </div>
+                    <div className="d-flex gap-2 pt-1">
+                      <span className="iC">
+                        <GoDotFill />
+                      </span>
+                      <small>
+                        I solidified my knowledge of JSX, components and state
+                        management while building the interactive elements of
+                        the page
+                      </small>
+                    </div>
+                    <div className="d-flex gap-2 pt-1">
+                      <span className="iC">
+                        <GoDotFill />
+                      </span>
+                      <small>
+                        I focused on replicating the visual design of the
+                        landing page using HTML and Bootstrap for interactivity
+                      </small>
+                    </div>
+                    <div className="d-flex gap-2 pt-1">
+                      <span className="iC">
+                        <GoDotFill />
+                      </span>
+                      <small>
+                        I focused on replicating the visual design of the
+                        landing page using HTML and Bootstrap for interactivity
+                      </small>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
             <div className="row">
-              <div className="col-12 col-md-3 col-lg-3">
+              <div className="col-12 col-md-4 col-lg-3 langRow">
                 <h1 className="Name2">LANGUAGES</h1>
                 <div>
                   <p className="fw-bold lin pb-2">
@@ -212,7 +352,7 @@ const CV = () => {
                 </div>
               </div>
               <div className="row">
-                <div className="col-12 col-md-3 col-lg-3">
+                <div className="col-12 col-md-5 col-lg-3 langRow2">
                   <h1 className="Name2">REFERENCES</h1>
                   <div>
                     <p className="fw-bold">Mr. Ojo Oluwadurotimi</p>
@@ -260,7 +400,7 @@ const CV = () => {
                     </div>
                   </div>
                 </div>
-                <div className="col-12 col-md-8 col-lg-8">
+                <div className="col-12 col-md-7 col-lg-8 pt-3">
                   <h1 className="Name2">EDUCATION</h1>
                   <div className="d-flex gap-2">
                     <p className="fw-bold">
