@@ -85,6 +85,11 @@ body{
     text-decoration: none;
 }
 
+.prjLinks{
+    display: flex;
+    
+}
+
 @media screen and (max-width: 999px) {
     .moveUp{
         margin-top: 0vh;

@@ -146,38 +146,27 @@ const CV = () => {
                 </div>
               </div>
               <div className="col-12 col-md-6 col-lg-6 moveUp">
-                <h1 className="Name2">PROJECTS</h1>
-                <div className="row">
-                  <div className="col-12 col-md-12 col-lg-12">
-                    Van-Life Landing Page | (Built a functional clone of the
-                    Van-Life landing page using React.JS) <span>|</span>
-                    <a
-                      target="_blank"
-                      href="https://github.com/Oluwasola1993/Van-life"
-                      className="proLink"
-                    >
-                      <div>
-                        <AiOutlineGithub className="me-2 icon" />
-                        https://github.com/Oluwasola1993/Van-life
-                      </div>
+                <div>
+                  <h1 className="Name2">PROJECTS</h1>
+                </div>
+                <div className="col-12 col-md-12 col-lg-12">
+                  <div>
+                    Van Life Clone | (Built a functional clone of the Van-Life
+                    website using React.JS) |
+                    <a href="https://github.com/Oluwasola1993/Van-life">
+                      <span>
+                        <AiOutlineGithub />
+                      </span>
+                      <span>https://github.com/Oluwasola1993/Van-life</span>
+                    </a>
+                    |
+                    <a href="https://van-life-new-pied.vercel.app/">
+                      <span className="">
+                        <TbWorld />
+                      </span>
+                      <span>https://van-life-new-pied.vercel.app</span>
                     </a>
                   </div>
-                </div>
-                <a
-                  target="_blank"
-                  href="https://van-life-new-pied.vercel.app/"
-                  className="proLink"
-                >
-                  <div>
-                    <TbWorld className="me-2 icon" />
-                    https://van-life-new-pied.vercel.app/
-                  </div>
-                </a>
-                <div className="d-flex gap-2 pt-2">
-                  <FaCalendar className="icon" />
-                  <p style={{ fontSize: "13px" }}>
-                    HTML, CSS, ReactJs, Bootstrap
-                  </p>
                 </div>
               </div>
             </div>
