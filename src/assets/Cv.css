@@ -94,6 +94,14 @@ body{
     .moveUp{
         margin-top: 0vh;
     }
+
+    .proLink{
+        color: rgb(9, 84, 145);
+        font-style: oblique;
+        font-size: 13px;
+        font-weight: bold;
+        text-decoration: none;
+    }
 }
 
 

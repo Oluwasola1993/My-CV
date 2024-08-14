@@ -152,20 +152,43 @@ const CV = () => {
                 <div className="col-12 col-md-12 col-lg-12">
                   <div>
                     Van Life Clone | (Built a functional clone of the Van-Life
-                    website using React.JS) |
-                    <a href="https://github.com/Oluwasola1993/Van-life">
+                    website using React.JS){" "}
+                    <span className="fw-bold FEd px-lg-1">|</span>
+                    <a
+                      href="https://github.com/Oluwasola1993/Van-life"
+                      className="proLink"
+                    >
                       <span>
-                        <AiOutlineGithub />
+                        <AiOutlineGithub className="me-2" />
+                        https://github.com/Oluwasola1993/Van-life
                       </span>
-                      <span>https://github.com/Oluwasola1993/Van-life</span>
                     </a>
-                    |
-                    <a href="https://van-life-new-pied.vercel.app/">
-                      <span className="">
-                        <TbWorld />
+                    <span className="fw-bold FEd px-lg-1">|</span>
+                    <a
+                      href="https://van-life-new-pied.vercel.app/"
+                      className="proLink"
+                    >
+                      <span>
+                        <TbWorld className="me-2" />
                       </span>
                       <span>https://van-life-new-pied.vercel.app</span>
                     </a>
+                    <div className="d-flex gap-3">
+                      <span className="icon">
+                        <FaCalendar />
+                      </span>
+                      <p>HTML, CSS, ReactJS, Bootstrap</p>
+                    </div>
+                    <div className="d-flex gap-2">
+                      <span className="iC">
+                        <GoDotFill />
+                      </span>
+                      <p>
+                        I solidified my knowledge of JSX, components and state
+                        management while building the interactive elements of
+                        the page
+                      </p>
+                    </div>
                   </div>
                 </div>
               </div>
