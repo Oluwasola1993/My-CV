@@ -110,7 +110,7 @@ body{
     .proLink{
         color: rgb(9, 84, 145);
         font-style: oblique;
-        font-size: 13px;
+        font-size: 0px;
         font-weight: bold;
         text-decoration: none;
     }

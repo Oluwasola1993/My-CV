@@ -212,43 +212,43 @@ const CV = () => {
                   </div>
                   <div className="pt-3 lin pb-3">
                     <span className="headings">
-                      Van Life Clone | (Built a functional clone of the Van-Life
-                      website using React.JS)
+                      Weather App | (Built a functional weather application
+                      using HTML, CSS, JavaScript, and Bootstrap)
                     </span>
                     <span className="fw-bold FEd px-lg-1">|</span>
                     <a
-                      href="https://github.com/Oluwasola1993/Van-life"
+                      href="https://github.com/Oluwasola1993/ClimaView"
                       className="proLink"
                     >
                       <span>
                         <AiOutlineGithub className="me-2" />
-                        https://github.com/Oluwasola1993/Van-life
+                        https://github.com/Oluwasola1993/ClimaView"
                       </span>
                     </a>
                     <span className="fw-bold FEd px-lg-1">|</span>
                     <a
-                      href="https://van-life-new-pied.vercel.app/"
+                      href="https://clima-view-brown.vercel.app/"
                       className="proLink"
                     >
                       <span>
                         <TbWorld className="me-2" />
                       </span>
-                      <span>https://van-life-new-pied.vercel.app</span>
+                      <span>https://clima-view-brown.vercel.app/</span>
                     </a>
                     <div className="d-flex gap-3">
                       <span className="icon">
                         <FaCalendar />
                       </span>
-                      <small>HTML, CSS, React.JS, Bootstrap</small>
+                      <small>HTML, CSS, JavaScript, Bootstrap</small>
                     </div>
                     <div className="d-flex gap-2 pt-1">
                       <span className="iC">
                         <GoDotFill />
                       </span>
                       <small>
-                        I solidified my knowledge of JSX, components and state
-                        management while building the interactive elements of
-                        the page
+                        I solidified my knowledge of JavaScript for handling
+                        dynamic weather data while building interactive features
+                        of the app.
                       </small>
                     </div>
                     <div className="d-flex gap-2 pt-1">
@@ -256,8 +256,9 @@ const CV = () => {
                         <GoDotFill />
                       </span>
                       <small>
-                        I focused on replicating the visual design of the
-                        landing page using HTML and Bootstrap for interactivity
+                        I concentrated on recreating the layout and visual
+                        elements using HTML and Bootstrap, while ensuring the
+                        design remains fully responsive and interactive.
                       </small>
                     </div>
                     <div className="d-flex gap-2 pt-1">
@@ -265,8 +266,8 @@ const CV = () => {
                         <GoDotFill />
                       </span>
                       <small>
-                        I focused on replicating the visual design of the
-                        landing page using HTML and Bootstrap for interactivity
+                        I also integrated live weather data, providing real-time
+                        updates with a seamless user experience.
                       </small>
                     </div>
                   </div>
