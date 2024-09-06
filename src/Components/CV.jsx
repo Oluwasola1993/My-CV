@@ -273,8 +273,8 @@ const CV = () => {
                   </div>
                   <div className="pt-3">
                     <span className="headings">
-                      Van Life Clone | (Built a functional clone of the Van-Life
-                      website using React.JS)
+                      Bank Application | (Built a functional banking application
+                      using HTML, CSS, React.JS, and Bootstrap)
                     </span>
                     <span className="fw-bold FEd px-lg-1">|</span>
                     <a
@@ -288,13 +288,13 @@ const CV = () => {
                     </a>
                     <span className="fw-bold FEd px-lg-1">|</span>
                     <a
-                      href="https://van-life-new-pied.vercel.app/"
+                      href="https://banking-app-front-end.vercel.app/"
                       className="proLink"
                     >
                       <span>
                         <TbWorld className="me-2" />
                       </span>
-                      <span>https://van-life-new-pied.vercel.app</span>
+                      <span>https://banking-app-front-end.vercel.app/</span>
                     </a>
                     <div className="d-flex gap-3">
                       <span className="icon">
