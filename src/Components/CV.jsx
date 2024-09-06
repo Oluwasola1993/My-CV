@@ -317,9 +317,9 @@ const CV = () => {
                         <GoDotFill />
                       </span>
                       <small>
-                        I focused on recreating the look and feel of the user
-                        interface using HTML and Bootstrap, ensuring a
-                        responsive and engaging user experience.
+                        I worked on replicating the user interface design with
+                        HTML and Bootstrap, making sure the application is both
+                        responsive and engaging for users.
                       </small>
                     </div>
                     <div className="d-flex gap-2 pt-1">
