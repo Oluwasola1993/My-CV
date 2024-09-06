@@ -278,12 +278,12 @@ const CV = () => {
                     </span>
                     <span className="fw-bold FEd px-lg-1">|</span>
                     <a
-                      href="https://github.com/Oluwasola1993/Van-life"
+                      href="https://github.com/Oluwasola1993/Banking-App-Front-End"
                       className="proLink"
                     >
                       <span>
                         <AiOutlineGithub className="me-2" />
-                        https://github.com/Oluwasola1993/Van-life
+                        https://github.com/Oluwasola1993/Banking-App-Front-End
                       </span>
                     </a>
                     <span className="fw-bold FEd px-lg-1">|</span>
@@ -307,9 +307,9 @@ const CV = () => {
                         <GoDotFill />
                       </span>
                       <small>
-                        I solidified my knowledge of JSX, components and state
-                        management while building the interactive elements of
-                        the page
+                        I strengthened my understanding of JSX, components, and
+                        state management by implementing various interactive
+                        features in the application.
                       </small>
                     </div>
                     <div className="d-flex gap-2 pt-1">
@@ -317,8 +317,9 @@ const CV = () => {
                         <GoDotFill />
                       </span>
                       <small>
-                        I focused on replicating the visual design of the
-                        landing page using HTML and Bootstrap for interactivity
+                        I focused on recreating the look and feel of the user
+                        interface using HTML and Bootstrap, ensuring a
+                        responsive and engaging user experience.
                       </small>
                     </div>
                     <div className="d-flex gap-2 pt-1">
@@ -326,8 +327,9 @@ const CV = () => {
                         <GoDotFill />
                       </span>
                       <small>
-                        I focused on replicating the visual design of the
-                        landing page using HTML and Bootstrap for interactivity
+                        Additionally, I applied React.JS to manage dynamic
+                        content and improve the overall interactivity of the
+                        banking application.
                       </small>
                     </div>
                   </div>
